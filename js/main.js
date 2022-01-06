@@ -1,4 +1,4 @@
-window.addEventListener("DOMContentLoad", (event) => {
+window.addEventListener("DOMContentLoaded", (event) => {
     let topButton = document.getElementById("topButton");
 
     window.onscroll = () => {
